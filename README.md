@@ -10,8 +10,8 @@
 - 📫 How to reach me **bgtrak@gmail.com**
 
 <h2 align="left">📜 Diploma</h2>
-- [JavaScript Web Developer (5.0)](https://softuni.bg/Certificates/Details/199336/e535dff8)
 
+- [JavaScript Web Developer (5.0)](https://softuni.bg/Certificates/Details/199336/e535dff8)
 
 
 <h2 align="left">🏅 Certificates</h2>
